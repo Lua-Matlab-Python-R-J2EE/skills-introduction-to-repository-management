@@ -26,7 +26,7 @@ new features, this guide will help you get started. 🎉
 - Add comments to describe blocks of logic.
 
 
-- ## Need help or have ideas?
+## Need help or have ideas?
 - Check the open issues first.
   - If your problem is there, add a comment or up-vote.
   - If not there, create a new issue. Be as descriptive as possible.
