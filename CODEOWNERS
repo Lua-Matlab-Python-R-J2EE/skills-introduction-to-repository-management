@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Lua-Matlab-Python-R-J2EE
+/src/backend/database.py      @Lua-Matlab-Python-R-J2EE
+/src/backend/routers/auth.py  @Lua-Matlab-Python-R-J2EE
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Lua-Matlab-Python-R-J2EE
